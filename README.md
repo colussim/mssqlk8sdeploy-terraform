@@ -35,7 +35,7 @@ Create a MS SQL Server instance:
 ```
 $ terraform apply \
  -var="name=mssql-deployment-student1" \
- -var="namespace=studnet1" \
+ -var="namespace=student1" \
  -var="pvc=pvc-sql-data01" \
  -var="mssql_pvc_size=50Gi" \
  -var="mssql_storage_class=sql-sc-1" \
