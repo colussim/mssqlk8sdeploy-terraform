@@ -1,3 +1,5 @@
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 After my previous post about **[deploying a kubernetes cluster on RedHat Enterprise Linux instances](https://github.com/colussim/k8sdeploy-terraform)** already up, I wanted to deploy SQL Server on this existing kubernetes cluster with Terraform.
 
 ## Prerequisites
